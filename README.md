@@ -1,4 +1,4 @@
-# SMS Sender Spring Boot App with Twilio API Integration
+# SMS Sender Spring Boot App using Twilio API Integration
 
 This repository contains a simple Spring Boot application designed to facilitate SMS sending using the Twilio API. With seamless integration, users can send SMS messages to their registered contacts effortlessly.
 
